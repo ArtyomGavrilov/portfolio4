@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+}
+
+h1 {
+    text-align: center;
+    color: orange;
+}
+
+header {
+    height: 70px;
+    padding: 20px;
+    background-image: linear-gradient(to right,#FFBF00,#1B1BB3);
+}
+
+.link-header {
+    text-decoration: none;
+    color: black;
+    border: 2px solid blue;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.link-nav {
+    margin: 15px;
+    text-decoration: none;
+}
+
+footer {
+    padding: 30px;
+    border-top: 10px dotted lightblue;
+    margin: 10px;
+}
+
+.social {
+    margin: 10px;
+}
+
+p {
+    margin-left: 20px;
+}
+
+li {
+    margin: 10px;
+}
+
+
+
+
+
+
